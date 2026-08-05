@@ -11,12 +11,11 @@
   </a>
 </p>
 
-<!-- Social icons -->
+<!-- Social links -->
 <p align="center">
-  <a href="https://x.com/RuiFan611"><img alt="X" title="Follow me on X" src="https://img.shields.io/badge/X-@RuiFan611-2bbc8a?style=for-the-badge&logo=x&logoColor=white&labelColor=1f2428" /></a>
-  <a href="https://www.xiaohongshu.com/user/profile/688eadd50000000028032343"><img alt="Xiaohongshu" title="Follow me on Xiaohongshu" src="https://img.shields.io/badge/Xiaohongshu-Profile-2bbc8a?style=for-the-badge&logo=xiaohongshu&logoColor=white&labelColor=1f2428" /></a>
-  <a href="./assets/wechat-card.png"><img alt="WeChat" title="Open my WeChat card" src="https://img.shields.io/badge/WeChat-Add%20Me-2bbc8a?style=for-the-badge&logo=wechat&logoColor=white&labelColor=1f2428" /></a>
-  <a href="#-contact-me"><img alt="QQ" title="QQ: 2335380408" src="https://img.shields.io/badge/QQ-2335380408-2bbc8a?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=1f2428" /></a>
+  <a href="https://x.com/RuiFan611"><img height="32" alt="Follow Jiarui Fan on X" title="Follow me on X" src="https://custom-icon-badges.demolab.com/badge/X-@RuiFan611-2bbc8a?style=for-the-badge&logo=x&logoColor=white&labelColor=1f2428" /></a>
+  &nbsp;
+  <a href="https://www.xiaohongshu.com/user/profile/688eadd50000000028032343"><img height="32" alt="Read Jiarui Fan's Xiaohongshu notes" title="Read my Xiaohongshu notes" src="https://custom-icon-badges.demolab.com/badge/Xiaohongshu-Read%20My%20Notes-2bbc8a?style=for-the-badge&logo=book&logoColor=white&labelColor=1f2428" /></a>
 </p>
 
 <br />
@@ -25,7 +24,6 @@
 <p align="center">
   <a href="https://github.com/zhiwuyazhe-fjr?tab=repositories&sort=stargazers"><img alt="GitHub stars" title="Total GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/zhiwuyazhe-fjr?color=239a70&style=for-the-badge&labelColor=1d7658&logo=star" /></a>
   <a href="https://github.com/zhiwuyazhe-fjr?tab=followers"><img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/zhiwuyazhe-fjr?color=239a70&labelColor=1d7658&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
-  <a href="https://www.xiaohongshu.com/user/profile/688eadd50000000028032343"><img alt="Latest Xiaohongshu notes" title="Read my latest Xiaohongshu notes" src="https://custom-icon-badges.demolab.com/badge/Xiaohongshu-Latest%20Notes-239a70?style=for-the-badge&logo=book&logoColor=white&labelColor=1d7658" /></a>
 </p>
 
 <br />
@@ -164,26 +162,17 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jiarui Fan's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zhiwuyazhe-fjr&bg_color=0d1117&color=c9d1d9&line=2bbc8a&point=54e6b4&area=true&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
-  <!--START_SECTION:activity-->
-  1. 🚀 Building practical AI tools and open-source products.
-  2. 📘 Improving [GZHReader](https://github.com/zhiwuyazhe-fjr/GZHReader).
-  3. 🧩 Shipping features for [ChatGPT Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper).
-  4. 🧠 Exploring AI-assisted learning with [Flux Matrix](https://github.com/zhiwuyazhe-fjr/Flux-Matrix).
-  <!--END_SECTION:activity-->
+
+<!--START_SECTION:activity-->
+
+1. 🚀 Building practical AI tools and open-source products.
+2. 📘 Improving [GZHReader](https://github.com/zhiwuyazhe-fjr/GZHReader).
+3. 🧩 Shipping features for [ChatGPT Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper).
+4. 🧠 Exploring AI-assisted learning with [Flux Matrix](https://github.com/zhiwuyazhe-fjr/Flux-Matrix).
+
+<!--END_SECTION:activity-->
 </details>
 
-<details>
-  <summary><h2>💬 Contact Me</h2></summary>
-
-  <p>
-    <b>X:</b> <a href="https://x.com/RuiFan611">@RuiFan611</a><br />
-    <b>Xiaohongshu:</b> <a href="https://www.xiaohongshu.com/user/profile/688eadd50000000028032343">View profile</a><br />
-    <b>QQ:</b> <code>2335380408</code>
-  </p>
-
-  <p><b>WeChat</b></p>
-  <img src="./assets/wechat-card.png" width="320" alt="Jiarui Fan WeChat contact card" />
-</details>
 
 <p align="center">
   <sub>Designed with curiosity, built with code, and colored in green.</sub>
