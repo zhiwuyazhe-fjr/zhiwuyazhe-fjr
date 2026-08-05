@@ -1,0 +1,12 @@
+﻿settings:
+  username: "zhiwuyazhe-fjr"
+  commit_msg: "chore: update recent GitHub activity"
+  max_lines: 5
+  readme_file: "./README.md"
+  disabled_events:
+    - "push"
+  ignored_repos:
+    - "zhiwuyazhe-fjr/zhiwuyazhe-fjr"
+  commit_name: "github-actions[bot]"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+

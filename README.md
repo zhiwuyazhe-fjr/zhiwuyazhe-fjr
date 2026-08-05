@@ -157,19 +157,20 @@
 
   <h3>⚡ Recent GitHub Activity</h3>
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
 1. 🚀 Building practical AI tools and open-source products.
 2. 📘 Improving [GZHReader](https://github.com/zhiwuyazhe-fjr/GZHReader).
 3. 🧩 Shipping features for [ChatGPT Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper).
 4. 🧠 Exploring AI-assisted learning with [Flux Matrix](https://github.com/zhiwuyazhe-fjr/Flux-Matrix).
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 </details>
 
 
 <p align="center">
   <sub>Designed with curiosity, built with code, and colored in green.</sub>
 </p>
+
 
 
