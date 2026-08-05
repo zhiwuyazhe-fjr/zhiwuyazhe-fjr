@@ -1,0 +1,38 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-labelledby="title desc">
+  <title id="title">Jiarui Fan — AI Explorer, Entrepreneur, Builder</title>
+  <desc id="desc">A green and dark personal identity banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111b18"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2bbc8a"/>
+      <stop offset="1" stop-color="#54e6b4"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2bbc8a" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1100" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1100" height="300" rx="18" fill="url(#grid)"/>
+  <circle cx="940" cy="65" r="120" fill="#2bbc8a" opacity=".06"/>
+  <circle cx="1010" cy="230" r="155" fill="#2bbc8a" opacity=".035"/>
+  <path d="M810 208h190M840 180h160M880 152h120" stroke="#2bbc8a" stroke-width="2" opacity=".35"/>
+  <circle cx="810" cy="208" r="5" fill="#2bbc8a" filter="url(#glow)"/>
+  <circle cx="840" cy="180" r="5" fill="#2bbc8a" filter="url(#glow)"/>
+  <circle cx="880" cy="152" r="5" fill="#2bbc8a" filter="url(#glow)"/>
+  <text x="64" y="75" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" letter-spacing="4">HELLO, WORLD — I'M</text>
+  <text x="58" y="158" fill="url(#green)" font-family="Arial Black, Inter, sans-serif" font-size="70" font-weight="900" letter-spacing="2">JIARUI FAN</text>
+  <text x="64" y="205" fill="#f0f6fc" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="600">AI EXPLORER · ENTREPRENEUR · BUILDER</text>
+  <text x="64" y="248" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">TJU / COMPUTER SCIENCE / BUILDING PRACTICAL AI TOOLS</text>
+  <g transform="translate(932 116)">
+    <rect x="-46" y="-46" width="92" height="92" rx="22" fill="#161b22" stroke="#2bbc8a" stroke-width="2"/>
+    <path d="M-23 11L0-24l23 35-23 25z" fill="none" stroke="#2bbc8a" stroke-width="5" stroke-linejoin="round"/>
+    <circle cx="0" cy="11" r="6" fill="#2bbc8a" filter="url(#glow)"/>
+  </g>
+</svg>
