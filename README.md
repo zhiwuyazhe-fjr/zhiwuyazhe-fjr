@@ -158,12 +158,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-
-1. 🚀 Building practical AI tools and open-source products.
-2. 📘 Improving [GZHReader](https://github.com/zhiwuyazhe-fjr/GZHReader).
-3. 🧩 Shipping features for [ChatGPT Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper).
-4. 🧠 Exploring AI-assisted learning with [Flux Matrix](https://github.com/zhiwuyazhe-fjr/Flux-Matrix).
-
+1. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
+2. ⭐ Starred [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)<br>
+3. ⭐ Starred [nyblnet/bento](https://github.com/nyblnet/bento)<br>
+4. ✌️ Released [v2.4.2](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper/releases/tag/v2.4.2) in [zhiwuyazhe-fjr/ChatGPT-Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper)<br>
+5. ⭐ Starred [graspnet/anygrasp_sdk](https://github.com/graspnet/anygrasp_sdk)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
