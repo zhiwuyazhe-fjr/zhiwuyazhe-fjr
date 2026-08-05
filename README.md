@@ -22,7 +22,7 @@
 
 <!-- Social proof badges -->
 <p align="center">
-  <a href="https://github.com/zhiwuyazhe-fjr?tab=repositories&sort=stargazers"><img alt="GitHub stars" title="Total GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/zhiwuyazhe-fjr?color=239a70&style=for-the-badge&labelColor=1d7658&logo=star" /></a>
+  <a href="#-my-top-open-source-projects"><img height="28" alt="Featured project stars" title="Stars across your public projects and listed contribution projects" src="./assets/featured-project-stars.svg" /></a>
   <a href="https://github.com/zhiwuyazhe-fjr?tab=followers"><img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/zhiwuyazhe-fjr?color=239a70&labelColor=1d7658&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
 </p>
 
@@ -40,7 +40,6 @@
     <a href="https://github.com/zhiwuyazhe-fjr/GZHReader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zhiwuyazhe-fjr&repo=GZHReader&show_description=false&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="GZHReader" /></a>
     <a href="https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zhiwuyazhe-fjr&repo=ChatGPT-Helper&show_description=false&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="ChatGPT Helper" /></a>
     <a href="https://github.com/zhiwuyazhe-fjr/Flux-Matrix"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zhiwuyazhe-fjr&repo=Flux-Matrix&show_description=false&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="Flux Matrix" /></a>
-    <a href="https://github.com/hepingan11/AdventureX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hepingan11&repo=AdventureX&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="AdventureX 2026" /></a>
   </p>
 
   <a href="https://github.com/zhiwuyazhe-fjr?tab=repositories&sort=stargazers"><img alt="All repositories" title="See all repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-1f2428?style=for-the-badge&logoColor=white&logo=repo&labelColor=1f2428&color=2bbc8a" /></a>

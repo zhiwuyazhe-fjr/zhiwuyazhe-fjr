@@ -1,0 +1,30 @@
+name: Update featured project stars
+
+on:
+  schedule:
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: featured-project-stars
+  cancel-in-progress: false
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recalculate project stars
+        run: node scripts/update-featured-project-stars.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit updated badge
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/featured-project-stars.svg
+          git diff --cached --quiet || git commit -m "chore: update featured project stars"
+          git push
