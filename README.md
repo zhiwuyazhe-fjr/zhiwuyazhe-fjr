@@ -28,11 +28,6 @@
 
 <br />
 
-<!-- Replace assets/spotlight.svg when the final artwork is ready. -->
-<p align="center">
-  <img src="./assets/spotlight.svg" alt="Jiarui Fan signature visual" width="82%" />
-</p>
-
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
