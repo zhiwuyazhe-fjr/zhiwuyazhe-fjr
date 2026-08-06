@@ -158,11 +158,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
-2. ⭐ Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br>
-3. ⭐ Starred [Alexsun1one/paper-operators](https://github.com/Alexsun1one/paper-operators)<br>
-4. ✌️ Released [GZHReader v3.0.0｜全新本地公众号阅读工作台](https://github.com/zhiwuyazhe-fjr/GZHReader/releases/tag/v3.0.0) in [zhiwuyazhe-fjr/GZHReader](https://github.com/zhiwuyazhe-fjr/GZHReader)<br>
-5. ⭐ Starred [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)<br>
+1. 🔱 Forked [zhiwuyazhe-fjr/OpenMinis](https://github.com/zhiwuyazhe-fjr/OpenMinis) from [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
+2. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
+3. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
+4. ⭐ Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br>
+5. ⭐ Starred [Alexsun1one/paper-operators](https://github.com/Alexsun1one/paper-operators)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
