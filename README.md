@@ -158,11 +158,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
-2. ⭐ Starred [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)<br>
-3. ⭐ Starred [nyblnet/bento](https://github.com/nyblnet/bento)<br>
-4. ✌️ Released [v2.4.2](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper/releases/tag/v2.4.2) in [zhiwuyazhe-fjr/ChatGPT-Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper)<br>
-5. ⭐ Starred [graspnet/anygrasp_sdk](https://github.com/graspnet/anygrasp_sdk)<br>
+1. ⭐ Starred [Alexsun1one/paper-operators](https://github.com/Alexsun1one/paper-operators)<br>
+2. ✌️ Released [GZHReader v3.0.0｜全新本地公众号阅读工作台](https://github.com/zhiwuyazhe-fjr/GZHReader/releases/tag/v3.0.0) in [zhiwuyazhe-fjr/GZHReader](https://github.com/zhiwuyazhe-fjr/GZHReader)<br>
+3. ⭐ Starred [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)<br>
+4. ⭐ Starred [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex)<br>
+5. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
