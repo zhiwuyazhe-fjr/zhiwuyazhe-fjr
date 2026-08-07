@@ -158,11 +158,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3462](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-2. 💬 Commented on [#3262](https://github.com/rtk-ai/rtk/issues/3262#issuecomment-5212828454) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-3. ❌ Closed PR [#1965](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-4. 💬 Commented on [#1965](https://github.com/rtk-ai/rtk/pull/1965#issuecomment-5212563591) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-5. 💬 Commented on [#1613](https://github.com/rtk-ai/rtk/issues/1613#issuecomment-5212563560) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+1. 💬 Commented on [#18054](https://github.com/CherryHQ/cherry-studio/issues/18054#issuecomment-5216496516) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
+2. 💬 Commented on [#9421](https://github.com/super-productivity/super-productivity/issues/9421#issuecomment-5216056845) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
+3. 💬 Commented on [#18054](https://github.com/CherryHQ/cherry-studio/issues/18054#issuecomment-5216023150) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
+4. 💬 Commented on [#18088](https://github.com/CherryHQ/cherry-studio/issues/18088#issuecomment-5215899101) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
+5. 💪 Opened PR [#9492](undefined) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
