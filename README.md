@@ -158,11 +158,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [zhiwuyazhe-fjr/OpenMinis](https://github.com/zhiwuyazhe-fjr/OpenMinis) from [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
-2. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
-3. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
-4. ⭐ Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br>
-5. ⭐ Starred [Alexsun1one/paper-operators](https://github.com/Alexsun1one/paper-operators)<br>
+1. 💪 Opened PR [#3462](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+2. 💬 Commented on [#3262](https://github.com/rtk-ai/rtk/issues/3262#issuecomment-5212828454) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+3. ❌ Closed PR [#1965](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+4. 💬 Commented on [#1965](https://github.com/rtk-ai/rtk/pull/1965#issuecomment-5212563591) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+5. 💬 Commented on [#1613](https://github.com/rtk-ai/rtk/issues/1613#issuecomment-5212563560) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
