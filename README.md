@@ -158,11 +158,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#18054](https://github.com/CherryHQ/cherry-studio/issues/18054#issuecomment-5216496516) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
-2. 💬 Commented on [#9421](https://github.com/super-productivity/super-productivity/issues/9421#issuecomment-5216056845) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
-3. 💬 Commented on [#18054](https://github.com/CherryHQ/cherry-studio/issues/18054#issuecomment-5216023150) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
-4. 💬 Commented on [#18088](https://github.com/CherryHQ/cherry-studio/issues/18088#issuecomment-5215899101) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
-5. 💪 Opened PR [#9492](undefined) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
+1. 🔱 Forked [zhiwuyazhe-fjr/haidian](https://github.com/zhiwuyazhe-fjr/haidian) from [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
+2. 💬 Commented on [#6234](https://github.com/farion1231/cc-switch/pull/6234#discussion_r3743943395) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>
+3. ⭐ Starred [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
+4. 💬 Commented on [#18054](https://github.com/CherryHQ/cherry-studio/issues/18054#issuecomment-5216496516) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
+5. 💬 Commented on [#9421](https://github.com/super-productivity/super-productivity/issues/9421#issuecomment-5216056845) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
