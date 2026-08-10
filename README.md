@@ -158,11 +158,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [zhiwuyazhe-fjr/haidian](https://github.com/zhiwuyazhe-fjr/haidian) from [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
-2. 💬 Commented on [#6234](https://github.com/farion1231/cc-switch/pull/6234#discussion_r3743943395) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>
-3. ⭐ Starred [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
-4. 💬 Commented on [#18054](https://github.com/CherryHQ/cherry-studio/issues/18054#issuecomment-5216496516) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
-5. 💬 Commented on [#9421](https://github.com/super-productivity/super-productivity/issues/9421#issuecomment-5216056845) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
+1. 💪 Opened PR [#1434](undefined) in [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
+2. 💬 Commented on [#3472](https://github.com/rtk-ai/rtk/issues/3472#issuecomment-5238571402) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+3. 💪 Opened PR [#3517](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+4. 💬 Commented on [#3472](https://github.com/rtk-ai/rtk/issues/3472#issuecomment-5237920401) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+5. 🔱 Forked [zhiwuyazhe-fjr/haidian](https://github.com/zhiwuyazhe-fjr/haidian) from [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
