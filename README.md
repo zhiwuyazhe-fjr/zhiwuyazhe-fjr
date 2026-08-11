@@ -158,11 +158,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1054](https://github.com/HKUDS/Vibe-Trading/pull/1054#issuecomment-5241432756) in [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)<br>
-2. 💬 Commented on [#1050](https://github.com/HKUDS/Vibe-Trading/issues/1050#issuecomment-5241413499) in [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)<br>
-3. 💪 Opened PR [#1054](undefined) in [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)<br>
-4. 💬 Commented on [#1050](https://github.com/HKUDS/Vibe-Trading/issues/1050#issuecomment-5241169399) in [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)<br>
-5. 🔱 Forked [zhiwuyazhe-fjr/nanobot](https://github.com/zhiwuyazhe-fjr/nanobot) from [HKUDS/nanobot](https://github.com/HKUDS/nanobot)<br>
+1. 💪 Opened PR [#1726](undefined) in [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
+2. 💪 Opened PR [#1659](undefined) in [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
+3. 💬 Commented on [#1054](https://github.com/HKUDS/Vibe-Trading/pull/1054#issuecomment-5241432756) in [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)<br>
+4. 💬 Commented on [#1050](https://github.com/HKUDS/Vibe-Trading/issues/1050#issuecomment-5241413499) in [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)<br>
+5. 💪 Opened PR [#1054](undefined) in [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
