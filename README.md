@@ -158,11 +158,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2247](undefined) in [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
-2. 💪 Opened PR [#1726](undefined) in [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
-3. 💪 Opened PR [#1659](undefined) in [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
-4. 💬 Commented on [#1054](https://github.com/HKUDS/Vibe-Trading/pull/1054#issuecomment-5241432756) in [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)<br>
-5. 💬 Commented on [#1050](https://github.com/HKUDS/Vibe-Trading/issues/1050#issuecomment-5241413499) in [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)<br>
+1. 💪 Opened PR [#3555](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+2. 💬 Commented on [#5350](https://github.com/HKUDS/nanobot/issues/5350#issuecomment-5274986775) in [HKUDS/nanobot](https://github.com/HKUDS/nanobot)<br>
+3. 💬 Commented on [#3549](https://github.com/rtk-ai/rtk/issues/3549#issuecomment-5274891185) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+4. 💪 Opened PR [#2247](undefined) in [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
+5. 💪 Opened PR [#1726](undefined) in [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
