@@ -158,11 +158,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3262](https://github.com/rtk-ai/rtk/issues/3262#issuecomment-5291202041) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-2. 🔱 Forked [zhiwuyazhe-fjr/deepseek-harness](https://github.com/zhiwuyazhe-fjr/deepseek-harness) from [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>
-3. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>
-4. 💬 Commented on [#3262](https://github.com/rtk-ai/rtk/issues/3262#issuecomment-5288103516) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-5. 💪 Opened PR [#3555](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+1. 💬 Commented on [#9492](https://github.com/super-productivity/super-productivity/pull/9492#issuecomment-5299786966) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
+2. 💬 Commented on [#3262](https://github.com/rtk-ai/rtk/issues/3262#issuecomment-5291202041) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+3. 🔱 Forked [zhiwuyazhe-fjr/deepseek-harness](https://github.com/zhiwuyazhe-fjr/deepseek-harness) from [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>
+4. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>
+5. 💬 Commented on [#3262](https://github.com/rtk-ai/rtk/issues/3262#issuecomment-5288103516) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
