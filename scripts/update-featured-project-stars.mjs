@@ -4,6 +4,8 @@ const username = "zhiwuyazhe-fjr";
 const contributionRepos = [
   "HKUDS/CLI-Anything",
   "rtk-ai/rtk",
+  "open-city-ai/haidian",
+  "HKUDS/Vibe-Trading",
 ];
 
 const headers = {

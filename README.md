@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <a href="https://github.com/zhiwuyazhe-fjr">
     <img src="./assets/header.svg" alt="Jiarui Fan — AI Explorer, Entrepreneur, Builder" width="100%" />
   </a>
@@ -46,6 +46,8 @@
   <p align="left">
     <a href="https://github.com/HKUDS/CLI-Anything"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HKUDS&repo=CLI-Anything&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="CLI-Anything" /></a>
     <a href="https://github.com/rtk-ai/rtk"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rtk-ai&repo=rtk&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="RTK" /></a>
+    <a href="https://github.com/open-city-ai/haidian"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=open-city-ai&repo=haidian&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="OpenCity / Haidian" /></a>
+    <a href="https://github.com/HKUDS/Vibe-Trading"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HKUDS&repo=Vibe-Trading&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="Vibe-Trading" /></a>
   </p>
 </details>
 
@@ -170,6 +172,3 @@
 <p align="center">
   <sub>Designed with curiosity, built with code, and colored in green.</sub>
 </p>
-
-
-
