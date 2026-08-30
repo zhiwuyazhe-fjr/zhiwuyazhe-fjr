@@ -160,11 +160,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3832](undefined) in [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
-2. 💬 Commented on [#9492](https://github.com/super-productivity/super-productivity/pull/9492#issuecomment-5379123138) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
-3. 💬 Commented on [#9492](https://github.com/super-productivity/super-productivity/pull/9492#issuecomment-5299786966) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
-4. 💬 Commented on [#3262](https://github.com/rtk-ai/rtk/issues/3262#issuecomment-5291202041) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-5. 🔱 Forked [zhiwuyazhe-fjr/deepseek-harness](https://github.com/zhiwuyazhe-fjr/deepseek-harness) from [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>
+1. ⭐ Starred [IAAR-Shanghai/Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)<br>
+2. 💪 Opened PR [#3832](undefined) in [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
+3. 💬 Commented on [#9492](https://github.com/super-productivity/super-productivity/pull/9492#issuecomment-5379123138) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
+4. 💬 Commented on [#9492](https://github.com/super-productivity/super-productivity/pull/9492#issuecomment-5299786966) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
+5. 💬 Commented on [#3262](https://github.com/rtk-ai/rtk/issues/3262#issuecomment-5291202041) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
