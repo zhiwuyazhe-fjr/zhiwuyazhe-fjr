@@ -6,6 +6,7 @@ const contributionRepos = [
   "rtk-ai/rtk",
   "open-city-ai/haidian",
   "HKUDS/Vibe-Trading",
+  "super-productivity/super-productivity",
 ];
 
 const headers = {

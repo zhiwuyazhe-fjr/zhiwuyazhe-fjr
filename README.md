@@ -48,6 +48,7 @@
     <a href="https://github.com/rtk-ai/rtk"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rtk-ai&repo=rtk&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="RTK" /></a>
     <a href="https://github.com/open-city-ai/haidian"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=open-city-ai&repo=haidian&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="OpenCity / Haidian" /></a>
     <a href="https://github.com/HKUDS/Vibe-Trading"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HKUDS&repo=Vibe-Trading&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="Vibe-Trading" /></a>
+    <a href="https://github.com/super-productivity/super-productivity"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=super-productivity&repo=super-productivity&bg_color=0d1117&title_color=2bbc8a&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d" alt="Super Productivity" /></a>
   </p>
 </details>
 
