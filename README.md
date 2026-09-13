@@ -162,11 +162,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#9492](https://github.com/super-productivity/super-productivity/pull/9492#issuecomment-5628530530) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
-2. 💬 Commented on [#3462](https://github.com/rtk-ai/rtk/pull/3462#issuecomment-5491750058) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-3. 💬 Commented on [#9492](https://github.com/super-productivity/super-productivity/pull/9492#issuecomment-5469412754) in [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)<br>
-4. ⭐ Starred [IAAR-Shanghai/Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)<br>
-5. 💪 Opened PR [#3832](undefined) in [open-city-ai/haidian](https://github.com/open-city-ai/haidian)<br>
+1. 💬 Commented on [#3555](https://github.com/rtk-ai/rtk/pull/3555#issuecomment-5652376638) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+2. 💬 Commented on [#3517](https://github.com/rtk-ai/rtk/pull/3517#issuecomment-5652375634) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+3. 💬 Commented on [#3462](https://github.com/rtk-ai/rtk/pull/3462#issuecomment-5652374660) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+4. ✌️ Released [v2.4.3](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper/releases/tag/v2.4.3) in [zhiwuyazhe-fjr/ChatGPT-Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper)<br>
+5. 💬 Commented on [#2](https://github.com/zhiwuyazhe-fjr/GZHReader/pull/2#issuecomment-5651100151) in [zhiwuyazhe-fjr/GZHReader](https://github.com/zhiwuyazhe-fjr/GZHReader)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
