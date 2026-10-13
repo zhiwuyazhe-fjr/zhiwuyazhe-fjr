@@ -164,9 +164,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [zhiwuyazhe-fjr/CodexUseZcode](https://github.com/zhiwuyazhe-fjr/CodexUseZcode)<br>
-2. 💬 Commented on [#3555](https://github.com/rtk-ai/rtk/pull/3555#issuecomment-5652376638) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-3. 💬 Commented on [#3517](https://github.com/rtk-ai/rtk/pull/3517#issuecomment-5652375634) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-4. 💬 Commented on [#3462](https://github.com/rtk-ai/rtk/pull/3462#issuecomment-5652374660) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
