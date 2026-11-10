@@ -165,7 +165,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ✌️ Released [v2.7.7](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper/releases/tag/v2.7.7) in [zhiwuyazhe-fjr/ChatGPT-Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper)<br>
 2. 💪 Opened PR [#3](undefined) in [zhiwuyazhe-fjr/GZHReader](https://github.com/zhiwuyazhe-fjr/GZHReader)<br>
-3. ⭐ Starred [zhiwuyazhe-fjr/CodexUseZcode](https://github.com/zhiwuyazhe-fjr/CodexUseZcode)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
