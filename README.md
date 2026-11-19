@@ -163,9 +163,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.0.0 · 鸿蒙手机投屏到 Windows](https://github.com/zhiwuyazhe-fjr/harmony-cast-windows/releases/tag/v1.0.0) in [zhiwuyazhe-fjr/harmony-cast-windows](https://github.com/zhiwuyazhe-fjr/harmony-cast-windows)<br>
-2. ✌️ Released [v2.7.7](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper/releases/tag/v2.7.7) in [zhiwuyazhe-fjr/ChatGPT-Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper)<br>
-3. 💪 Opened PR [#3](undefined) in [zhiwuyazhe-fjr/GZHReader](https://github.com/zhiwuyazhe-fjr/GZHReader)<br>
+1. 💪 Opened PR [#5187](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+2. 💪 Opened PR [#5186](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+3. ✌️ Released [v1.0.0 · 鸿蒙手机投屏到 Windows](https://github.com/zhiwuyazhe-fjr/harmony-cast-windows/releases/tag/v1.0.0) in [zhiwuyazhe-fjr/harmony-cast-windows](https://github.com/zhiwuyazhe-fjr/harmony-cast-windows)<br>
+4. ✌️ Released [v2.7.7](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper/releases/tag/v2.7.7) in [zhiwuyazhe-fjr/ChatGPT-Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper)<br>
+5. 💪 Opened PR [#3](undefined) in [zhiwuyazhe-fjr/GZHReader](https://github.com/zhiwuyazhe-fjr/GZHReader)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
