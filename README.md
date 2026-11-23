@@ -163,11 +163,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5187](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-2. 💪 Opened PR [#5186](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-3. ✌️ Released [v1.0.0 · 鸿蒙手机投屏到 Windows](https://github.com/zhiwuyazhe-fjr/harmony-cast-windows/releases/tag/v1.0.0) in [zhiwuyazhe-fjr/harmony-cast-windows](https://github.com/zhiwuyazhe-fjr/harmony-cast-windows)<br>
-4. ✌️ Released [v2.7.7](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper/releases/tag/v2.7.7) in [zhiwuyazhe-fjr/ChatGPT-Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper)<br>
-5. 💪 Opened PR [#3](undefined) in [zhiwuyazhe-fjr/GZHReader](https://github.com/zhiwuyazhe-fjr/GZHReader)<br>
+1. ❌ Closed PR [#1](undefined) in [zhiwuyazhe-fjr/ChatGPT-Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper)<br>
+2. 💬 Commented on [#1](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper/pull/1#issuecomment-7090689906) in [zhiwuyazhe-fjr/ChatGPT-Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper)<br>
+3. 💪 Opened PR [#5187](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+4. 💪 Opened PR [#5186](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+5. ✌️ Released [v1.0.0 · 鸿蒙手机投屏到 Windows](https://github.com/zhiwuyazhe-fjr/harmony-cast-windows/releases/tag/v1.0.0) in [zhiwuyazhe-fjr/harmony-cast-windows](https://github.com/zhiwuyazhe-fjr/harmony-cast-windows)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
