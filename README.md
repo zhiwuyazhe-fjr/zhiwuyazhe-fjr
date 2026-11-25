@@ -163,11 +163,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](undefined) in [zhiwuyazhe-fjr/ChatGPT-Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper)<br>
-2. 💬 Commented on [#1](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper/pull/1#issuecomment-7090689906) in [zhiwuyazhe-fjr/ChatGPT-Helper](https://github.com/zhiwuyazhe-fjr/ChatGPT-Helper)<br>
-3. 💪 Opened PR [#5187](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-4. 💪 Opened PR [#5186](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-5. ✌️ Released [v1.0.0 · 鸿蒙手机投屏到 Windows](https://github.com/zhiwuyazhe-fjr/harmony-cast-windows/releases/tag/v1.0.0) in [zhiwuyazhe-fjr/harmony-cast-windows](https://github.com/zhiwuyazhe-fjr/harmony-cast-windows)<br>
+1. 🤝 Became collaborator on [2110782900/cs2-review](https://github.com/2110782900/cs2-review)<br>
+2. 💬 Commented on [#5282](https://github.com/rtk-ai/rtk/issues/5282#issuecomment-7152367452) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+3. 💬 Commented on [#5283](https://github.com/rtk-ai/rtk/issues/5283#issuecomment-7152366701) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+4. 💪 Opened PR [#5287](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+5. 💪 Opened PR [#5286](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
