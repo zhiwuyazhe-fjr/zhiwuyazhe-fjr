@@ -163,11 +163,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [2110782900/cs2-review](https://github.com/2110782900/cs2-review)<br>
-2. 💬 Commented on [#5282](https://github.com/rtk-ai/rtk/issues/5282#issuecomment-7152367452) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-3. 💬 Commented on [#5283](https://github.com/rtk-ai/rtk/issues/5283#issuecomment-7152366701) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-4. 💪 Opened PR [#5287](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-5. 💪 Opened PR [#5286](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+1. 💬 Commented on [#5287](https://github.com/rtk-ai/rtk/pull/5287#issuecomment-7217158737) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+2. 🤝 Became collaborator on [2110782900/cs2-review](https://github.com/2110782900/cs2-review)<br>
+3. 💬 Commented on [#5282](https://github.com/rtk-ai/rtk/issues/5282#issuecomment-7152367452) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+4. 💬 Commented on [#5283](https://github.com/rtk-ai/rtk/issues/5283#issuecomment-7152366701) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+5. 💪 Opened PR [#5287](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
