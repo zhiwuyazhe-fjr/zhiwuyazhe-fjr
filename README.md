@@ -163,11 +163,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5287](https://github.com/rtk-ai/rtk/pull/5287#issuecomment-7217158737) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-2. 🤝 Became collaborator on [2110782900/cs2-review](https://github.com/2110782900/cs2-review)<br>
-3. 💬 Commented on [#5282](https://github.com/rtk-ai/rtk/issues/5282#issuecomment-7152367452) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-4. 💬 Commented on [#5283](https://github.com/rtk-ai/rtk/issues/5283#issuecomment-7152366701) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-5. 💪 Opened PR [#5287](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+1. 💬 Commented on [#2389](https://github.com/HKUDS/Vibe-Trading/issues/2389#issuecomment-7240877617) in [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)<br>
+2. 💪 Opened PR [#2406](undefined) in [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)<br>
+3. 💪 Opened PR [#5332](undefined) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+4. 💬 Commented on [#6805](https://github.com/HKUDS/nanobot/issues/6805#issuecomment-7240840934) in [HKUDS/nanobot](https://github.com/HKUDS/nanobot)<br>
+5. 💪 Opened PR [#1](undefined) in [zhiwuyazhe-fjr/nanobot](https://github.com/zhiwuyazhe-fjr/nanobot)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
